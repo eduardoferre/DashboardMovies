@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    background-color: #111111;
+
+    color: #f6f6f6;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    margin: 0 auto;
+    width: 90vw;
+}
+
+h1 {
+    margin: 1.5rem 0;
+}
+
+.vertical-container {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-container {
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.slider {
+    width: 50%;
+}
+
+.dash-graph {
+    width: inherit;
+}

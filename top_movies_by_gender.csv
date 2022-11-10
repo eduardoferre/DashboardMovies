@@ -1,0 +1,999 @@
+Genre,Rank,RatingTomatometer,Title,No. of Reviews
+Ação e Aventura,1.0,96%,Black Panther (2018),525
+Ação e Aventura,3.0,97%,Mission: Impossible - Fallout (2018),437
+Ação e Aventura,4.0,97%,Mad Max: Fury Road (2015),434
+Ação e Aventura,5.0,97%,Spider-Man: Into the Spider-Verse (2018),393
+Ação e Aventura,8.0,97%,Coco (2017),354
+Ação e Aventura,12.0,100%,Seven Samurai (Shichinin no Samurai) (1956),88
+Ação e Aventura,14.0,97%,Metropolis (1927),135
+Ação e Aventura,15.0,95%,Soul (2020),344
+Ação e Aventura,16.0,100%,The Adventures of Robin Hood (1938),48
+Ação e Aventura,18.0,93%,Incredibles 2 (2018),387
+Ação e Aventura,19.0,98%,Zootopia (2016),298
+Ação e Aventura,20.0,98%,King Kong (1933),66
+Ação e Aventura,24.0,96%,The Bridge on the River Kwai (1957),93
+Ação e Aventura,25.0,98%,Jaws (1975),95
+Ação e Aventura,26.0,98%,Up (2009),298
+Ação e Aventura,29.0,100%,The Treasure of the Sierra Madre (1948),52
+Ação e Aventura,34.0,96%,The 39 Steps (1935),53
+Ação e Aventura,36.0,96%,Harry Potter and the Deathly Hallows - Part 2 (2011),332
+Ação e Aventura,38.0,97%,The Hurt Locker (2009),289
+Ação e Aventura,39.0,98%,Apocalypse Now (1979),96
+Ação e Aventura,42.0,96%,The LEGO Movie (2014),253
+Ação e Aventura,44.0,95%,Moana (2016),283
+Ação e Aventura,47.0,97%,Kubo and the Two Strings (2016),226
+Ação e Aventura,48.0,99%,Wolfwalkers (2020),162
+Ação e Aventura,49.0,99%,Goldfinger (1964),69
+Ação e Aventura,51.0,100%,Stagecoach (1939),45
+Ação e Aventura,53.0,95%,WALL-E (2008),260
+Ação e Aventura,54.0,96%,Paths of Glory (1957),68
+Ação e Aventura,55.0,96%,The French Connection (1971),85
+Ação e Aventura,57.0,100%,The Terminator (1984),65
+Ação e Aventura,58.0,97%,Hunt for the Wilderpeople (2016),206
+Ação e Aventura,61.0,98%,The Princess Bride (1987),80
+Ação e Aventura,62.0,100%,The Taking of Pelham One Two Three (1974),43
+Ação e Aventura,64.0,95%,The Peanut Butter Falcon (2019),220
+Ação e Aventura,65.0,97%,Aliens (1986),78
+Ação e Aventura,68.0,95%,True Grit (2010),275
+Ação e Aventura,75.0,97%,Badlands (1974),59
+Ação e Aventura,76.0,97%,Chicken Run (2000),173
+Ação e Aventura,77.0,100%,Stalker (1979),41
+Ação e Aventura,83.0,96%,The African Queen (1951),46
+Ação e Aventura,84.0,97%,From Russia With Love (1964),61
+Ação e Aventura,85.0,96%,Ran (1985),89
+Ação e Aventura,87.0,98%,A Fistful of Dollars (Per un Pugno di Dollari) (1964),51
+Ação e Aventura,88.0,100%,Henry V (1989),40
+Ação e Aventura,90.0,95%,The Lord of the Rings: The Two Towers (2002),255
+Ação e Aventura,91.0,97%,Ghostbusters (1984 Original) (1984),73
+Ação e Aventura,92.0,98%,Rio Bravo (1959),43
+Ação e Aventura,96.0,96%,Back to the Future (1985),83
+Ação e Aventura,97.0,96%,The Fugitive (1993),80
+Ação e Aventura,98.0,97%,"Crouching Tiger, Hidden Dragon (2001)",159
+Ação e Aventura,99.0,96%,The Searchers (1956),50
+Ação e Aventura,100.0,98%,Bullitt (1968),43
+Animação,1.0,97%,Toy Story 4 (2019),453
+Animação,2.0,97%,Spider-Man: Into the Spider-Verse (2018),393
+Animação,3.0,98%,Inside Out (2015),379
+Animação,4.0,97%,Coco (2017),354
+Animação,5.0,98%,Snow White and the Seven Dwarfs (1937),54
+Animação,6.0,95%,Soul (2020),344
+Animação,8.0,98%,Zootopia (2016),298
+Animação,9.0,99%,Paddington 2 (2018),247
+Animação,10.0,98%,Up (2009),298
+Animação,11.0,98%,Toy Story 3 (2010),309
+Animação,12.0,100%,Toy Story 2 (1999),170
+Animação,14.0,99%,Finding Nemo (2003),269
+Animação,15.0,100%,Pinocchio (1940),56
+Animação,16.0,96%,The LEGO Movie (2014),253
+Animação,17.0,95%,Moana (2016),283
+Animação,18.0,100%,Toy Story (1995),92
+Animação,20.0,97%,Kubo and the Two Strings (2016),226
+Animação,21.0,99%,Wolfwalkers (2020),162
+Animação,22.0,99%,How to Train Your Dragon (2010),212
+Animação,23.0,99%,Shaun the Sheep Movie (2015),170
+Animação,24.0,95%,WALL-E (2008),260
+Animação,25.0,96%,Ratatouille (2007),251
+Animação,26.0,98%,Dumbo (1941),43
+Animação,28.0,97%,The Incredibles (2004),249
+Animação,29.0,99%,My Life as a Zucchini (Ma vie de courgette) (2017),137
+Animação,30.0,100%,Only Yesterday (1991),58
+Animação,31.0,90%,The Lego Batman Movie (2017),313
+Animação,32.0,97%,Chicken Run (2000),173
+Animação,33.0,98%,101 Dalmatians (1961),52
+Animação,35.0,95%,The Nightmare Before Christmas (1993),100
+Animação,37.0,96%,"Monsters, Inc. (2001)",199
+Animação,39.0,97%,Spirited Away (2002),195
+Animação,40.0,100%,Grave of the Fireflies (Hotaru no haka) (1988),40
+Animação,42.0,99%,Song Of The Sea (2014),97
+Animação,43.0,98%,Your Name. (Kimi No Na Wa.) (2017),116
+Animação,44.0,96%,The Iron Giant (1999),142
+Animação,45.0,99%,Tower (2016),100
+Animação,46.0,95%,Fantasia (1940),56
+Animação,47.0,97%,Who Framed Roger Rabbit (1988),67
+Animação,48.0,96%,Waltz with Bashir (2008),153
+Animação,51.0,96%,Persepolis (2007),162
+Animação,52.0,95%,Wallace & Gromit: The Curse of the Were-Rabbit (2005),184
+Animação,54.0,95%,Yellow Submarine (1968),60
+Animação,55.0,98%,Kiki's Delivery Service (1989),42
+Animação,56.0,98%,Ernest & Célestine (2014),81
+Animação,57.0,95%,Aladdin (1992),75
+Animação,58.0,95%,The Secret World of Arrietty (2012),152
+Animação,59.0,97%,Ghost in the Shell (1996),58
+Animação,63.0,98%,Long Way North (Tout en haut du monde) (2016),54
+Animação,66.0,98%,Liyana (2018),42
+Animação,67.0,96%,I Lost My Body (2019),83
+Animação,68.0,95%,The Breadwinner (2017),105
+Animação,69.0,96%,A Shaun the Sheep Movie: Farmageddon (2020),79
+Animação,82.0,95%,Mary and Max (2009),65
+Casa de Arte e Internacional,1.0,98%,Parasite (Gisaengchung) (2019),464
+Casa de Arte e Internacional,2.0,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),68
+Casa de Arte e Internacional,3.0,100%,Seven Samurai (Shichinin no Samurai) (1956),88
+Casa de Arte e Internacional,4.0,97%,La Grande illusion (Grand Illusion) (1938),68
+Casa de Arte e Internacional,5.0,97%,Metropolis (1927),135
+Casa de Arte e Internacional,6.0,97%,"Nosferatu, a Symphony of Terror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",69
+Casa de Arte e Internacional,7.0,99%,The Battle of Algiers (La Battaglia di Algeri) (1967),89
+Casa de Arte e Internacional,8.0,99%,Shoplifters (Manbiki kazoku) (2018),227
+Casa de Arte e Internacional,9.0,100%,M (1931),60
+Casa de Arte e Internacional,10.0,100%,Battleship Potemkin (1925),49
+Casa de Arte e Internacional,11.0,97%,Army of Shadows (L'Armée des ombres) (1969),75
+Casa de Arte e Internacional,12.0,98%,Rashômon (1951),56
+Casa de Arte e Internacional,13.0,100%,Tokyo Story (Tôkyô monogatari) (1953),49
+Casa de Arte e Internacional,14.0,100%,Open City (1946),47
+Casa de Arte e Internacional,15.0,97%,Pather Panchali (1955),72
+Casa de Arte e Internacional,16.0,100%,The Wages of Fear (1953),45
+Casa de Arte e Internacional,17.0,100%,Nights of Cabiria (Le Notti di Cabiria) (1957),44
+Casa de Arte e Internacional,18.0,98%,The 400 Blows (Les Quatre cents coups) (1959),66
+Casa de Arte e Internacional,19.0,96%,La Dolce Vita (1960),75
+Casa de Arte e Internacional,20.0,99%,The Umbrellas of Cherbourg (Les Parapluies de Cherbourg) (1964),67
+Casa de Arte e Internacional,21.0,98%,The Passion of Joan of Arc (La Passion de Jeanne d'Arc) (1928),59
+Casa de Arte e Internacional,22.0,98%,Let the Right One In (2008),192
+Casa de Arte e Internacional,23.0,100%,Au Hasard Balthazar (1966),43
+Casa de Arte e Internacional,24.0,98%,The Conformist (1970),56
+Casa de Arte e Internacional,25.0,99%,"Faces Places (Visages, villages) (2017)",142
+Casa de Arte e Internacional,26.0,99%,A Separation (2011),179
+Casa de Arte e Internacional,27.0,98%,The Discreet Charm Of The Bourgeoisie (Le Charme Discret de la Bourgeoisie) (1972),53
+Casa de Arte e Internacional,28.0,99%,Things to Come (L'avenir) (2016),148
+Casa de Arte e Internacional,29.0,99%,My Life as a Zucchini (Ma vie de courgette) (2017),137
+Casa de Arte e Internacional,30.0,99%,BPM (Beats Per Minute) (120 battements par minute) (2017),135
+Casa de Arte e Internacional,31.0,98%,8 1/2 (1963),54
+Casa de Arte e Internacional,32.0,100%,Only Yesterday (1991),58
+Casa de Arte e Internacional,33.0,96%,The Salesman (Forushande) (2017),196
+Casa de Arte e Internacional,34.0,100%,Tampopo (1985),55
+Casa de Arte e Internacional,35.0,98%,Ikiru (1956),47
+Casa de Arte e Internacional,36.0,99%,Gloria (2014),129
+Casa de Arte e Internacional,37.0,95%,Amy (2015),225
+Casa de Arte e Internacional,39.0,98%,Eyes Without a Face (1962),55
+Casa de Arte e Internacional,40.0,100%,The Tale of the Princess Kaguya (2014),96
+Casa de Arte e Internacional,41.0,98%,The Leopard (1963),48
+Casa de Arte e Internacional,42.0,95%,Le Cercle Rouge (1970),65
+Casa de Arte e Internacional,43.0,95%,Sing Street (2016),214
+Casa de Arte e Internacional,44.0,100%,Three Colors: Red (Trois couleurs: Rouge) (1994),54
+Casa de Arte e Internacional,45.0,100%,Stalker (1979),41
+Casa de Arte e Internacional,46.0,95%,Burning (Beoning) (2018),196
+Casa de Arte e Internacional,47.0,96%,The Blue Angel (Der Blaue Engel) (1930),45
+Casa de Arte e Internacional,48.0,98%,Children of Paradise (Les Enfants du Paradis) (1946),40
+Casa de Arte e Internacional,49.0,98%,God's Own Country (2017),130
+Casa de Arte e Internacional,50.0,98%,Playtime (1973),51
+Casa de Arte e Internacional,51.0,96%,Ran (1985),89
+Casa de Arte e Internacional,52.0,98%,A Fistful of Dollars (Per un Pugno di Dollari) (1964),51
+Casa de Arte e Internacional,53.0,100%,Sugar Cane Alley (Rue Cases Negres) (1984),40
+Casa de Arte e Internacional,54.0,95%,Loveless (Nelyubov) (2018),186
+Casa de Arte e Internacional,55.0,100%,Grave of the Fireflies (Hotaru no haka) (1988),40
+Casa de Arte e Internacional,56.0,100%,GETT: The Trial of Viviane Amsalem (2015),80
+Casa de Arte e Internacional,59.0,98%,Timbuktu (2015),124
+Casa de Arte e Internacional,60.0,98%,The Young Girls of Rochefort (Les Demoiselles de Rochefort) (1968),44
+Casa de Arte e Internacional,61.0,98%,The Road (La Strada) (1954),43
+Casa de Arte e Internacional,62.0,97%,"Crouching Tiger, Hidden Dragon (2001)",159
+Casa de Arte e Internacional,63.0,96%,The Rules of the Game (La règle du jeu) (1939),51
+Casa de Arte e Internacional,64.0,98%,Wings of Desire (1987),56
+Casa de Arte e Internacional,65.0,96%,"Aguirre, the Wrath of God (Aguirre, der Zorn Gottes) (1972)",50
+Casa de Arte e Internacional,66.0,99%,Jiro Dreams of Sushi (2012),95
+Casa de Arte e Internacional,67.0,97%,Border (Gräns) (2018),130
+Casa de Arte e Internacional,68.0,100%,Aruitemo Aruitemo (Still Walking) (2008),64
+Casa de Arte e Internacional,69.0,98%,All About My Mother (Todo sobre mi madre) (1999),91
+Casa de Arte e Internacional,70.0,100%,Poetry (2011),72
+Casa de Arte e Internacional,71.0,98%,The Band's Visit (2007),119
+Casa de Arte e Internacional,72.0,96%,Waltz with Bashir (2008),153
+Casa de Arte e Internacional,73.0,100%,Waste Land (2010),71
+Casa de Arte e Internacional,75.0,96%,Embrace Of The Serpent (El Abrazo De La Serpiente) (2016),149
+Casa de Arte e Internacional,76.0,100%,Afghan Star (2009),62
+Casa de Arte e Internacional,77.0,97%,Project Nim (2011),147
+Casa de Arte e Internacional,78.0,96%,After the Storm (Umi yori mo mada fukaku) (2017),138
+Casa de Arte e Internacional,80.0,98%,The Vanishing (Spoorloos) (1988),49
+Casa de Arte e Internacional,81.0,96%,Masculin Feminin (1966),45
+Casa de Arte e Internacional,83.0,98%,Three Colors: Blue (Trois Couleurs: Bleu) (1993),46
+Casa de Arte e Internacional,84.0,97%,Monsieur Lazhar (2012),119
+Casa de Arte e Internacional,85.0,99%,About Elly (2015),70
+Casa de Arte e Internacional,86.0,100%,Fireworks Wednesday (Chaharshanbe-soori) (2016),45
+Casa de Arte e Internacional,87.0,100%,Last Train Home (2010),55
+Casa de Arte e Internacional,88.0,95%,The Class (2008),161
+Casa de Arte e Internacional,90.0,96%,The Look of Silence (2015),139
+Casa de Arte e Internacional,91.0,97%,Maria Full of Grace (2004),146
+Casa de Arte e Internacional,92.0,98%,My Left Foot (1989),42
+Casa de Arte e Internacional,93.0,100%,Nostalgia for the Light (2011),48
+Casa de Arte e Internacional,94.0,96%,A Prophet (Un prophete) (2010),163
+Casa de Arte e Internacional,95.0,98%,My Beautiful Laundrette (1985),42
+Casa de Arte e Internacional,96.0,96%,The Kid with a Bike (2012),133
+Casa de Arte e Internacional,97.0,98%,Ernest & Célestine (2014),81
+Casa de Arte e Internacional,98.0,95%,Throne of Blood (1957),44
+Casa de Arte e Internacional,99.0,96%,Mafioso (1964),50
+Casa de Arte e Internacional,100.0,99%,Moolaadé (2004),74
+Clássicos,1.0,99%,It Happened One Night (1934),98
+Clássicos,2.0,99%,Citizen Kane (1941),121
+Clássicos,3.0,98%,The Wizard of Oz (1939),160
+Clássicos,4.0,98%,Modern Times (1936),109
+Clássicos,5.0,99%,Casablanca (1942),124
+Clássicos,6.0,98%,Sunset Boulevard (1950),110
+Clássicos,7.0,99%,All About Eve (1950),103
+Clássicos,8.0,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),68
+Clássicos,9.0,100%,The Philadelphia Story (1940),102
+Clássicos,10.0,100%,Rebecca (1940),95
+Clássicos,11.0,99%,His Girl Friday (1940),100
+Clássicos,12.0,97%,A Night at the Opera (1935),70
+Clássicos,13.0,99%,The Third Man (1949),86
+Clássicos,14.0,98%,Rear Window (1954),122
+Clássicos,15.0,100%,Seven Samurai (Shichinin no Samurai) (1956),88
+Clássicos,16.0,97%,La Grande illusion (Grand Illusion) (1938),68
+Clássicos,17.0,100%,Singin' in the Rain (1952),67
+Clássicos,18.0,98%,All Quiet on the Ocidental Front (1930),81
+Clássicos,19.0,98%,Snow White and the Seven Dwarfs (1937),54
+Clássicos,20.0,99%,On the Waterfront (1954),107
+Clássicos,21.0,96%,An American in Paris (1951),94
+Clássicos,22.0,98%,The Best Years of Our Lives (1946),91
+Clássicos,23.0,97%,Metropolis (1927),135
+Clássicos,24.0,100%,The Kid (1921),49
+Clássicos,25.0,97%,"Nosferatu, a Symphony of Terror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",69
+Clássicos,26.0,100%,The Adventures of Robin Hood (1938),48
+Clássicos,27.0,97%,North by Northwest (1959),109
+Clássicos,28.0,100%,Laura (1944),65
+Clássicos,29.0,98%,King Kong (1933),66
+Clássicos,30.0,100%,Shadow of a Doubt (1943),49
+Clássicos,31.0,96%,Psycho (1960),105
+Clássicos,32.0,98%,A Hard Day's Night (1964),112
+Clássicos,33.0,96%,The Bridge on the River Kwai (1957),93
+Clássicos,34.0,100%,Top Hat (1935),42
+Clássicos,35.0,98%,The Bride of Frankenstein (1935),47
+Clássicos,36.0,100%,12 Angry Men (Twelve Angry Men) (1957),58
+Clássicos,37.0,99%,Marty (1955),70
+Clássicos,38.0,100%,The Lady Eve (1941),48
+Clássicos,39.0,100%,The Treasure of the Sierra Madre (1948),52
+Clássicos,41.0,99%,Chinatown (1974),76
+Clássicos,42.0,98%,The Lady Vanishes (1938),45
+Clássicos,43.0,98%,Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb (1964),93
+Clássicos,44.0,97%,All the King's Men (1949),70
+Clássicos,45.0,96%,The 39 Steps (1935),53
+Clássicos,46.0,100%,Frankenstein (1931),52
+Clássicos,47.0,98%,The Thin Man (1934),43
+Clássicos,48.0,100%,The Gold Rush (1925),50
+Clássicos,49.0,100%,Battleship Potemkin (1925),49
+Clássicos,50.0,97%,A Streetcar Named Desire (1951),63
+Clássicos,51.0,95%,Touch of Evil (1958),79
+Clássicos,52.0,100%,Kind Hearts and Coronets (1949),47
+Clássicos,53.0,98%,Rashômon (1951),56
+Clássicos,56.0,100%,The Last Picture Show (1971),60
+Clássicos,57.0,97%,The Red Shoes (1948),62
+Clássicos,58.0,98%,Scarface (1932),46
+Clássicos,59.0,100%,The Grapes of Wrath (1940),48
+Clássicos,60.0,97%,The Lost Weekend (1945),62
+Clássicos,61.0,97%,The Big Sleep (1946),65
+Clássicos,62.0,99%,Goldfinger (1964),69
+Clássicos,63.0,100%,Cool Hand Luke (1967),53
+Clássicos,64.0,98%,The 400 Blows (Les Quatre cents coups) (1959),66
+Clássicos,65.0,100%,Anatomy of a Murder (1959),50
+Clássicos,66.0,100%,Stagecoach (1939),45
+Clássicos,67.0,98%,Invasion of the Body Snatchers (1956),58
+Clássicos,68.0,98%,The Passion of Joan of Arc (La Passion de Jeanne d'Arc) (1928),59
+Clássicos,69.0,98%,Sweet Smell of Success (1957),55
+Clássicos,70.0,96%,Paths of Glory (1957),68
+Clássicos,71.0,96%,The French Connection (1971),85
+Clássicos,72.0,97%,Roman Holiday (1953),60
+Clássicos,73.0,95%,Freaks (1932),55
+Clássicos,76.0,95%,In the Heat of the Night (1967),83
+Clássicos,77.0,98%,In a Lonely Place (1950),47
+Clássicos,78.0,96%,Night of the Living Dead (1968),75
+Clássicos,79.0,98%,Gentlemen Prefer Blondes (1953),45
+Clássicos,80.0,96%,Rosemary's Baby (1968),74
+Clássicos,81.0,98%,Sunrise: A Song of Two Humans (1927),62
+Clássicos,82.0,95%,The Day the Earth Stood Still (1951),57
+Clássicos,83.0,98%,Detour (1945),41
+Clássicos,84.0,95%,Mrs. Miniver (1942),60
+Clássicos,85.0,96%,City Lights (1931),55
+Clássicos,86.0,96%,Miracle on 34th Street (1947),48
+Clássicos,87.0,98%,Home of the Brave (1949),40
+Clássicos,89.0,97%,Badlands (1974),59
+Clássicos,90.0,95%,Repulsion (1965),65
+Clássicos,91.0,98%,The Leopard (1963),48
+Clássicos,92.0,98%,101 Dalmatians (1961),52
+Clássicos,93.0,97%,The Manchurian Candidate (1962),60
+Clássicos,94.0,96%,The Blue Angel (Der Blaue Engel) (1930),45
+Clássicos,95.0,98%,Children of Paradise (Les Enfants du Paradis) (1946),40
+Clássicos,96.0,98%,Kiss Me Deadly (1955),43
+Clássicos,97.0,95%,Stormy Weather (1943),41
+Clássicos,100.0,96%,The African Queen (1951),46
+Comédia,1.0,99%,It Happened One Night (1934),98
+Comédia,2.0,98%,Modern Times (1936),109
+Comédia,3.0,97%,Toy Story 4 (2019),453
+Comédia,4.0,99%,Lady Bird (2017),398
+Comédia,5.0,96%,BlacKkKlansman (2018),447
+Comédia,6.0,100%,The Philadelphia Story (1940),102
+Comédia,7.0,99%,Eighth Grade (2018),319
+Comédia,8.0,96%,Booksmart (2019),378
+Comédia,9.0,99%,His Girl Friday (1940),100
+Comédia,10.0,97%,Coco (2017),354
+Comédia,11.0,97%,A Night at the Opera (1935),70
+Comédia,12.0,97%,The Farewell (2019),345
+Comédia,13.0,100%,Singin' in the Rain (1952),67
+Comédia,14.0,98%,The Big Sick (2017),305
+Comédia,16.0,100%,The Kid (1921),49
+Comédia,18.0,98%,Zootopia (2016),298
+Comédia,19.0,99%,Paddington 2 (2018),247
+Comédia,20.0,98%,A Hard Day's Night (1964),112
+Comédia,21.0,100%,Top Hat (1935),42
+Comédia,22.0,98%,Up (2009),298
+Comédia,23.0,98%,Toy Story 3 (2010),309
+Comédia,24.0,100%,Toy Story 2 (1999),170
+Comédia,26.0,100%,The Lady Eve (1941),48
+Comédia,27.0,98%,Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb (1964),93
+Comédia,28.0,99%,Finding Nemo (2003),269
+Comédia,29.0,98%,The Thin Man (1934),43
+Comédia,30.0,100%,The Gold Rush (1925),50
+Comédia,31.0,100%,Kind Hearts and Coronets (1949),47
+Comédia,33.0,96%,Paterson (2016),262
+Comédia,34.0,96%,The LEGO Movie (2014),253
+Comédia,37.0,100%,Toy Story (1995),92
+Comédia,41.0,95%,The Artist (2011),322
+Comédia,42.0,96%,La Dolce Vita (1960),75
+Comédia,43.0,95%,The Death of Stalin (2018),249
+Comédia,44.0,95%,Palm Springs (2020),244
+Comédia,45.0,97%,Monty Python and the Holy Grail (1975),78
+Comédia,46.0,99%,Shaun the Sheep Movie (2015),170
+Comédia,47.0,97%,Roman Holiday (1953),60
+Comédia,48.0,95%,Spy (2015),259
+Comédia,49.0,97%,Hunt for the Wilderpeople (2016),206
+Comédia,52.0,96%,Ratatouille (2007),251
+Comédia,53.0,98%,The Discreet Charm Of The Bourgeoisie (Le Charme Discret de la Bourgeoisie) (1972),53
+Comédia,54.0,97%,The Incredibles (2004),249
+Comédia,55.0,96%,Annie Hall (1977),84
+Comédia,56.0,96%,Love & Friendship (2016),214
+Comédia,58.0,98%,Gentlemen Prefer Blondes (1953),45
+Comédia,59.0,100%,Tampopo (1985),55
+Comédia,60.0,97%,Sideways (2004),233
+Comédia,61.0,97%,Groundhog Day (1993),86
+Comédia,63.0,96%,City Lights (1931),55
+Comédia,65.0,97%,Airplane! (1980),71
+Comédia,68.0,97%,Chicken Run (2000),173
+Comédia,69.0,93%,Moonrise Kingdom (2012),266
+Comédia,70.0,98%,101 Dalmatians (1961),52
+Comédia,71.0,98%,The Forty-Year-Old Version (2020),131
+Comédia,73.0,96%,What We Do In The Shadows (2015),189
+Comédia,74.0,97%,Paddington (2015),164
+Comédia,75.0,98%,Playtime (1973),51
+Comédia,76.0,98%,Don't Think Twice (2016),136
+Comédia,77.0,99%,Saint Frances (2020),102
+Comédia,79.0,98%,Blow the Man Down (2020),123
+Comédia,80.0,96%,"Monsters, Inc. (2001)",199
+Comédia,82.0,95%,The Truman Show (1998),135
+Comédia,83.0,97%,Big (1988),76
+Comédia,84.0,97%,Ghostbusters (1984 Original) (1984),73
+Comédia,86.0,98%,The Player (1992),64
+Comédia,87.0,96%,To Be or Not to Be (1942),47
+Comédia,88.0,95%,The Muppets (2011),231
+Comédia,89.0,95%,Enough Said (2013),191
+Comédia,92.0,96%,Back to the Future (1985),83
+Comédia,93.0,97%,Bull Durham (1988),71
+Comédia,94.0,96%,The Rules of the Game (La règle du jeu) (1939),51
+Comédia,97.0,95%,Lost In Translation (2003),232
+Comédia,98.0,98%,Broadcast News (1987),53
+Comédia,100.0,97%,Who Framed Roger Rabbit (1988),67
+Documentário,1.0,97%,Won't You Be My Neighbor? (2018),255
+Documentário,2.0,99%,I Am Not Your Negro (2017),210
+Documentário,3.0,99%,Apollo 11 (2019),186
+Documentário,4.0,99%,"Summer of Soul (...Or, When the Revolution Could Not Be Televised) (2021)",208
+Documentário,5.0,98%,Life Itself (2014),203
+Documentário,6.0,100%,Man on Wire (2008),159
+Documentário,7.0,99%,Amazing Grace (2019),160
+Documentário,8.0,100%,Minding the Gap (2018),123
+Documentário,9.0,99%,"Faces Places (Visages, villages) (2017)",142
+Documentário,10.0,99%,Collective (Colectiv) (2020),130
+Documentário,11.0,99%,McQueen (2018),126
+Documentário,12.0,100%,Crip Camp: A Disability Revolution (2020),100
+Documentário,13.0,99%,20 Feet From Stardom (2013),128
+Documentário,14.0,97%,Weiner (2016),177
+Documentário,15.0,96%,Three Identical Strangers (2018),186
+Documentário,16.0,95%,Amy (2015),225
+Documentário,17.0,100%,Dick Johnson Is Dead (2020),91
+Documentário,18.0,97%,Free Solo (2018),157
+Documentário,19.0,99%,MLK/FBI (2021),124
+Documentário,20.0,98%,Kedi (2017),130
+Documentário,21.0,98%,The Last Waltz (1978),50
+Documentário,22.0,99%,Knock Down the House (2019),105
+Documentário,23.0,98%,Time (2020),124
+Documentário,24.0,99%,Totally Under Control (2020),102
+Documentário,25.0,98%,Blackfish (2013),131
+Documentário,26.0,100%,Stop Making Sense (1984),40
+Documentário,27.0,100%,Taxi to the Dark Side (2007),93
+Documentário,28.0,100%,The Decline of Ocidental Civilization (1981),40
+Documentário,29.0,98%,Murderball (2005),141
+Documentário,30.0,98%,Maiden (2019),118
+Documentário,31.0,100%,Welcome to Chechnya (2020),72
+Documentário,32.0,98%,Jodorowsky's Dune (2014),121
+Documentário,33.0,99%,Tower (2016),100
+Documentário,34.0,98%,Anvil! The Story of Anvil (2009),140
+Documentário,35.0,98%,Inside Job (2010),148
+Documentário,36.0,100%,All In: The Fight for Democracy (2020),66
+Documentário,37.0,98%,The Velvet Underground (2021),126
+Documentário,38.0,100%,The Square (Al Midan) (2013),69
+Documentário,39.0,99%,Jiro Dreams of Sushi (2012),95
+Documentário,40.0,100%,Mucho Mucho Amor: The Legend of Walter Mercado (2020),63
+Documentário,41.0,99%,The Missing Picture (2014),89
+Documentário,42.0,100%,Seymour: An Introduction (2015),68
+Documentário,43.0,98%,Paris Is Burning (1991),57
+Documentário,44.0,100%,Deliver Us from Evil (2006),72
+Documentário,45.0,100%,Athlete A (2020),57
+Documentário,46.0,98%,One Child Nation (2019),101
+Documentário,47.0,100%,Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2017),57
+Documentário,48.0,96%,Waltz with Bashir (2008),153
+Documentário,49.0,98%,Hoop Dreams (1994),60
+Documentário,50.0,100%,A Secret Love (2020),54
+Documentário,51.0,100%,Waste Land (2010),71
+Documentário,52.0,96%,Citizenfour (2014),146
+Documentário,53.0,99%,On the Record (2020),73
+Documentário,54.0,99%,The Interrupters (2011),93
+Documentário,55.0,100%,Afghan Star (2009),62
+Documentário,56.0,100%,White Riot (2019),50
+Documentário,57.0,100%,Slay the Dragon (2020),49
+Documentário,58.0,97%,Project Nim (2011),147
+Documentário,59.0,99%,Shirkers (2018),71
+Documentário,60.0,98%,Iris (2015),100
+Documentário,61.0,97%,Capturing the Friedmans (2003),154
+Documentário,62.0,100%,Strong Island (2017),48
+Documentário,63.0,100%,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999)",42
+Documentário,64.0,99%,The Fight (2020),67
+Documentário,65.0,100%,A Thousand Cuts (2020),44
+Documentário,66.0,100%,Rewind (2020),44
+Documentário,67.0,98%,Tea With the Dames (Nothing Like a Dame) (2018),88
+Documentário,68.0,99%,The Invisible War (2012),72
+Documentário,69.0,100%,Sound City (2013),46
+Documentário,70.0,99%,56 Up (2013),69
+Documentário,71.0,99%,Elaine Stritch: Shoot Me (2014),67
+Documentário,72.0,95%,The Act Of Killing (2013),160
+Documentário,73.0,100%,My Journey Through French Cinema (Voyage À Travers Le Cinéma Français) (2017),42
+Documentário,74.0,100%,Last Train Home (2010),55
+Documentário,75.0,100%,Changing the Game (2019),41
+Documentário,76.0,96%,The Look of Silence (2015),139
+Documentário,77.0,100%,California Typewriter (2017),40
+Documentário,78.0,100%,More Than Honey (2013),41
+Documentário,79.0,100%,Nostalgia for the Light (2011),48
+Documentário,80.0,100%,Everyday Sunshine: The Story of Fishbone (2011),47
+Documentário,81.0,97%,13th (2016),110
+Documentário,82.0,99%,Bill Cunningham New York (2011),74
+Documentário,83.0,100%,We Were Here (2011),46
+Documentário,84.0,97%,Spellbound (2002),139
+Documentário,85.0,97%,Enron: The Smartest Guys in the Room (2005),119
+Documentário,86.0,100%,Sholem Aleichem: Laughing in the Darkness (2011),43
+Documentário,87.0,98%,Ai Weiwei: Never Sorry (2012),83
+Documentário,88.0,99%,Rivers and Tides: Andy Goldsworthy Working With Time (2002),71
+Documentário,89.0,98%,How to Survive a Plague (2012),80
+Documentário,91.0,97%,This Is Not a Film (2012),102
+Documentário,92.0,98%,When We Were Kings (1996),49
+Documentário,93.0,96%,The Painter and the Thief (2020),110
+Documentário,95.0,96%,Hitchcock/Truffaut (2015),119
+Documentário,96.0,97%,Kurt Cobain: Montage Of Heck (2015),94
+Documentário,97.0,96%,Cave of Forgotten Dreams (2011),137
+Documentário,98.0,97%,The King of Kong: A Fistful of Quarters (2007),102
+Documentário,99.0,96%,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara (2003),142
+Documentário,100.0,95%,Bowling for Columbine (2002),173
+Drama,1.0,99%,Citizen Kane (1941),121
+Drama,2.0,96%,Black Panther (2018),525
+Drama,3.0,98%,Parasite (Gisaengchung) (2019),464
+Drama,5.0,99%,Casablanca (1942),124
+Drama,6.0,97%,Knives Out (2019),468
+Drama,7.0,99%,Lady Bird (2017),398
+Drama,8.0,97%,Mission: Impossible - Fallout (2018),437
+Drama,9.0,96%,BlacKkKlansman (2018),447
+Drama,10.0,95%,The Irishman (2019),456
+Drama,11.0,97%,The Godfather (1972),134
+Drama,12.0,98%,Moonlight (2016),393
+Drama,13.0,98%,Sunset Boulevard (1950),110
+Drama,14.0,99%,All About Eve (1950),103
+Drama,15.0,96%,Roma (2018),404
+Drama,18.0,96%,A Quiet Place (2018),387
+Drama,19.0,98%,One Night in Miami (2020),335
+Drama,20.0,100%,Rebecca (1940),95
+Drama,22.0,99%,His Girl Friday (1940),100
+Drama,23.0,98%,Portrait of a Lady on Fire (Portrait de la jeune fille en feu) (2020),324
+Drama,28.0,97%,Spotlight (2015),376
+Drama,29.0,97%,The Farewell (2019),345
+Drama,30.0,99%,Selma (2014),313
+Drama,31.0,98%,Rear Window (1954),122
+Drama,32.0,100%,Seven Samurai (Shichinin no Samurai) (1956),88
+Drama,33.0,97%,La Grande illusion (Grand Illusion) (1938),68
+Drama,36.0,97%,Double Indemnity (1944),92
+Drama,37.0,98%,All Quiet on the Ocidental Front (1930),81
+Drama,39.0,99%,On the Waterfront (1954),107
+Drama,40.0,98%,The Best Years of Our Lives (1946),91
+Drama,41.0,97%,Metropolis (1927),135
+Drama,42.0,97%,Boyhood (2014),328
+Drama,43.0,96%,Gravity (2013),357
+Drama,44.0,100%,Leave No Trace (2018),248
+Drama,45.0,100%,The Maltese Falcon (1941),64
+Drama,46.0,95%,12 Years a Slave (2013),374
+Drama,48.0,96%,Argo (2012),360
+Drama,49.0,97%,Ma Rainey's Black Bottom (2020),301
+Drama,50.0,96%,Manchester by the Sea (2016),353
+Drama,52.0,98%,Alien (1979),127
+Drama,53.0,100%,Shadow of a Doubt (1943),49
+Drama,56.0,99%,L.A. Confidential (1997),161
+Drama,57.0,96%,The Florida Project (2017),317
+Drama,58.0,94%,War for the Planet of the Apes (2017),361
+Drama,60.0,99%,Never Rarely Sometimes Always (2020),236
+Drama,63.0,96%,"The Godfather, Part II (1974)",114
+Drama,64.0,99%,The Battle of Algiers (La Battaglia di Algeri) (1967),89
+Drama,65.0,97%,Sound of Metal (2020),275
+Drama,67.0,96%,The Bridge on the River Kwai (1957),93
+Drama,68.0,96%,Pain and Glory (Dolor y gloria) (2019),299
+Drama,69.0,98%,Schindler's List (1993),128
+Drama,70.0,99%,Shoplifters (Manbiki kazoku) (2018),227
+Drama,71.0,100%,M (1931),60
+Drama,72.0,97%,Hell or High Water (2016),286
+Drama,73.0,98%,Jaws (1975),95
+Drama,76.0,98%,The Babadook (2014),242
+Drama,77.0,97%,Brooklyn (2015),276
+Drama,78.0,100%,12 Angry Men (Twelve Angry Men) (1957),58
+Drama,79.0,99%,Marty (1955),70
+Drama,81.0,98%,Bicycle Thieves (Ladri di biciclette) (The Bicycle Thief) (1949),66
+Drama,82.0,100%,The Treasure of the Sierra Madre (1948),52
+Drama,84.0,99%,Chinatown (1974),76
+Drama,85.0,95%,Creed (2015),312
+Drama,87.0,97%,All the King's Men (1949),70
+Drama,88.0,98%,The Wrestler (2008),233
+Drama,90.0,96%,Harry Potter and the Deathly Hallows - Part 2 (2011),332
+Drama,91.0,97%,The Hurt Locker (2009),289
+Drama,92.0,100%,Battleship Potemkin (1925),49
+Drama,93.0,97%,Dolemite Is My Name (2019),233
+Drama,97.0,97%,A Streetcar Named Desire (1951),63
+Drama,98.0,98%,Apocalypse Now (1979),96
+Drama,99.0,95%,Touch of Evil (1958),79
+Drama,100.0,90%,The Lighthouse (2019),382
+Terror,2.0,98%,Get Out (2017),398
+Terror,3.0,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),68
+Terror,4.0,96%,A Quiet Place (2018),387
+Terror,6.0,97%,"Nosferatu, a Symphony of Terror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",69
+Terror,7.0,98%,King Kong (1933),66
+Terror,8.0,96%,Psycho (1960),105
+Terror,9.0,98%,The Bride of Frankenstein (1935),47
+Terror,10.0,98%,The Babadook (2014),242
+Terror,11.0,100%,Frankenstein (1931),52
+Terror,13.0,96%,It Follows (2015),267
+Terror,15.0,98%,Let the Right One In (2008),192
+Terror,16.0,95%,Freaks (1932),55
+Terror,17.0,96%,Halloween (1978),78
+Terror,18.0,97%,Aliens (1986),78
+Terror,19.0,96%,The Silence of the Lambs (1991),105
+Terror,20.0,96%,Night of the Living Dead (1968),75
+Terror,21.0,96%,Rosemary's Baby (1968),74
+Terror,22.0,98%,Eyes Without a Face (1962),55
+Terror,23.0,100%,Host (2020),93
+Terror,24.0,95%,Pan's Labyrinth (2006),239
+Terror,26.0,95%,Repulsion (1965),65
+Terror,30.0,95%,Don't Look Now (1973),76
+Terror,33.0,98%,The Friends of Eddie Coyle (1973),40
+Terror,35.0,95%,The Birds (1963),57
+Terror,37.0,98%,The Vanishing (Spoorloos) (1988),49
+Terror,39.0,96%,A Girl Walks Home Alone at Night (2014),135
+Terror,41.0,95%,House of Wax (1953),44
+Terror,43.0,95%,The Fly (1958),41
+Terror,46.0,95%,Nosferatu: Phantom der Nacht (Nosferatu the Vampyre) (1979),60
+Terror,47.0,95%,Evil Dead 2: Dead by Dawn (1987),63
+Terror,48.0,95%,The Evil Dead (1981),63
+Terror,49.0,96%,La Llorona (2020),95
+Terror,50.0,98%,The Loved Ones (2012),57
+Terror,53.0,97%,Spontaneous (2020),64
+Terror,54.0,98%,My Heart Can't Beat Unless You Tell It To (2021),49
+Terror,55.0,95%,A Nightmare on Elm Street (1984),55
+Terror,56.0,97%,The Boy Behind the Door (2020),62
+Terror,59.0,95%,The Love Witch (2016),113
+Terror,60.0,97%,Harpoon (2019),61
+Terror,62.0,98%,Werckmeister Harmonies (2001),41
+Terror,65.0,96%,The Amusement Park (2019),72
+Terror,75.0,95%,The Mortuary Collection (2019),66
+Terror,83.0,95%,We Are Still Here (2015),44
+Terror,87.0,95%,The Old Ways (2021),42
+Infantil & Família,1.0,98%,The Wizard of Oz (1939),160
+Infantil & Família,2.0,97%,Toy Story 4 (2019),453
+Infantil & Família,3.0,97%,Spider-Man: Into the Spider-Verse (2018),393
+Infantil & Família,4.0,98%,Inside Out (2015),379
+Infantil & Família,5.0,97%,Coco (2017),354
+Infantil & Família,6.0,99%,E.T. The Extra-Terrestrial (1982),136
+Infantil & Família,7.0,98%,Snow White and the Seven Dwarfs (1937),54
+Infantil & Família,8.0,95%,Soul (2020),344
+Infantil & Família,10.0,99%,Paddington 2 (2018),247
+Infantil & Família,11.0,98%,Up (2009),298
+Infantil & Família,12.0,98%,Toy Story 3 (2010),309
+Infantil & Família,13.0,100%,Toy Story 2 (1999),170
+Infantil & Família,14.0,99%,Finding Nemo (2003),269
+Infantil & Família,15.0,100%,Pinocchio (1940),56
+Infantil & Família,17.0,96%,Harry Potter and the Deathly Hallows - Part 2 (2011),332
+Infantil & Família,19.0,96%,The LEGO Movie (2014),253
+Infantil & Família,20.0,95%,Moana (2016),283
+Infantil & Família,21.0,100%,Toy Story (1995),92
+Infantil & Família,22.0,99%,How to Train Your Dragon (2010),212
+Infantil & Família,23.0,96%,Ratatouille (2007),251
+Infantil & Família,24.0,98%,Dumbo (1941),43
+Infantil & Família,25.0,98%,The Princess Bride (1987),80
+Infantil & Família,26.0,97%,The Incredibles (2004),249
+Infantil & Família,27.0,99%,My Life as a Zucchini (Ma vie de courgette) (2017),137
+Infantil & Família,28.0,96%,Miracle on 34th Street (1947),48
+Infantil & Família,30.0,97%,Chicken Run (2000),173
+Infantil & Família,31.0,98%,101 Dalmatians (1961),52
+Infantil & Família,33.0,95%,The Nightmare Before Christmas (1993),100
+Infantil & Família,34.0,97%,Paddington (2015),164
+Infantil & Família,36.0,96%,"Monsters, Inc. (2001)",199
+Infantil & Família,37.0,97%,Big (1988),76
+Infantil & Família,38.0,97%,Spirited Away (2002),195
+Infantil & Família,39.0,95%,The Muppets (2011),231
+Infantil & Família,41.0,99%,Song Of The Sea (2014),97
+Infantil & Família,42.0,96%,The Iron Giant (1999),142
+Infantil & Família,43.0,95%,Fantasia (1940),56
+Infantil & Família,44.0,97%,Who Framed Roger Rabbit (1988),67
+Infantil & Família,46.0,97%,Babe (1995),70
+Infantil & Família,47.0,95%,Wallace & Gromit: The Curse of the Were-Rabbit (2005),184
+Infantil & Família,49.0,95%,Yellow Submarine (1968),60
+Infantil & Família,50.0,96%,Mary Poppins (1964),55
+Infantil & Família,51.0,95%,My Fair Lady (1964),62
+Infantil & Família,52.0,98%,Kiki's Delivery Service (1989),42
+Infantil & Família,53.0,95%,Aladdin (1992),75
+Infantil & Família,58.0,95%,The Straight Story (1999),105
+Infantil & Família,61.0,95%,The Breadwinner (2017),105
+Infantil & Família,64.0,96%,The Secret of Roan Inish (1995),45
+Música e Arte,1.0,98%,The Wizard of Oz (1939),160
+Música e Arte,2.0,97%,A Night at the Opera (1935),70
+Música e Arte,3.0,100%,Singin' in the Rain (1952),67
+Música e Arte,4.0,96%,An American in Paris (1951),94
+Música e Arte,6.0,98%,A Hard Day's Night (1964),112
+Música e Arte,7.0,97%,Sound of Metal (2020),275
+Música e Arte,8.0,100%,Top Hat (1935),42
+Música e Arte,9.0,100%,Pinocchio (1940),56
+Música e Arte,10.0,97%,The Red Shoes (1948),62
+Música e Arte,11.0,99%,The Umbrellas of Cherbourg (Les Parapluies de Cherbourg) (1964),67
+Música e Arte,12.0,99%,Amazing Grace (2019),160
+Música e Arte,14.0,97%,Hamilton (2020),199
+Música e Arte,15.0,98%,Gentlemen Prefer Blondes (1953),45
+Música e Arte,16.0,99%,20 Feet From Stardom (2013),128
+Música e Arte,17.0,95%,Amy (2015),225
+Música e Arte,18.0,98%,David Byrne's American Utopia (2020),135
+Música e Arte,19.0,95%,Sing Street (2016),214
+Música e Arte,21.0,96%,The Blue Angel (Der Blaue Engel) (1930),45
+Música e Arte,22.0,95%,Stormy Weather (1943),41
+Música e Arte,23.0,98%,The Last Waltz (1978),50
+Música e Arte,24.0,100%,Stop Making Sense (1984),40
+Música e Arte,25.0,100%,The Decline of Ocidental Civilization (1981),40
+Música e Arte,27.0,98%,Anvil! The Story of Anvil (2009),140
+Música e Arte,28.0,98%,The Young Girls of Rochefort (Les Demoiselles de Rochefort) (1968),44
+Música e Arte,29.0,97%,Once (2007),159
+Música e Arte,30.0,98%,A Star Is Born (1954),42
+Música e Arte,31.0,95%,Fantasia (1940),56
+Música e Arte,32.0,100%,Waste Land (2010),71
+Música e Arte,34.0,100%,Afghan Star (2009),62
+Música e Arte,35.0,97%,What's Love Got To Do With It? (1993),58
+Música e Arte,36.0,96%,We Are the Best! (2014),138
+Música e Arte,37.0,95%,Yellow Submarine (1968),60
+Música e Arte,38.0,96%,Mary Poppins (1964),55
+Música e Arte,39.0,100%,Sound City (2013),46
+Música e Arte,41.0,95%,My Fair Lady (1964),62
+Música e Arte,42.0,100%,Everyday Sunshine: The Story of Fishbone (2011),47
+Música e Arte,43.0,99%,Bill Cunningham New York (2011),74
+Música e Arte,44.0,98%,Hairspray (1988),42
+Música e Arte,45.0,95%,Aladdin (1992),75
+Música e Arte,46.0,99%,Rivers and Tides: Andy Goldsworthy Working With Time (2002),71
+Música e Arte,47.0,97%,Muscle Shoals (2013),87
+Música e Arte,48.0,95%,Searching for Sugar Man (2012),133
+Música e Arte,49.0,98%,Homecoming: A Film by Beyoncé (2019),56
+Música e Arte,50.0,98%,Beware Of Mr. Baker (2012),53
+Música e Arte,51.0,96%,Exit Through The Gift Shop (2010),115
+Música e Arte,52.0,98%,Keep On Keepin' On (2014),43
+Música e Arte,53.0,95%,Marley (2012),114
+Música e Arte,55.0,98%,"Du Levande (You, The Living) (2007)",42
+Música e Arte,56.0,96%,The Full Monty (1997),50
+Música e Arte,57.0,97%,49 Up (2006),65
+Música e Arte,63.0,96%,Les Plages d'Agnès (The Beaches of Agnes) (2008),72
+Música e Arte,64.0,95%,"20,000 Days on Earth (2014)",88
+Música e Arte,66.0,95%,Pina (2011),106
+Música e Arte,67.0,96%,Festival Express (2003),80
+Música e Arte,68.0,95%,Born Into Brothels (2004),108
+Música e Arte,71.0,95%,Crumb (1995),42
+Música e Arte,72.0,95%,The Wrecking Crew (2015),74
+Música e Arte,73.0,96%,Marina Abramovic: The Artist Is Present (2012),47
+Música e Arte,77.0,96%,Los Angeles Plays Itself (2003),45
+Música e Arte,80.0,95%,Lagaan: Once Upon a Time in India (2001),61
+Música e Arte,82.0,95%,End of the Century: The Story of the Ramones (2004),62
+Música e Arte,87.0,95%,Sing Your Song (2012),40
+Música e Arte,88.0,95%,The Filth and the Fury (2000),40
+Mistério e Suspense,1.0,99%,Citizen Kane (1941),121
+Mistério e Suspense,2.0,97%,Knives Out (2019),468
+Mistério e Suspense,4.0,97%,Mission: Impossible - Fallout (2018),437
+Mistério e Suspense,5.0,98%,Get Out (2017),398
+Mistério e Suspense,6.0,95%,The Irishman (2019),456
+Mistério e Suspense,7.0,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),68
+Mistério e Suspense,8.0,96%,A Quiet Place (2018),387
+Mistério e Suspense,9.0,100%,Rebecca (1940),95
+Mistério e Suspense,10.0,97%,Spotlight (2015),376
+Mistério e Suspense,11.0,99%,The Third Man (1949),86
+Mistério e Suspense,12.0,98%,Rear Window (1954),122
+Mistério e Suspense,14.0,100%,The Maltese Falcon (1941),64
+Mistério e Suspense,16.0,96%,Argo (2012),360
+Mistério e Suspense,17.0,97%,North by Northwest (1959),109
+Mistério e Suspense,18.0,100%,Laura (1944),65
+Mistério e Suspense,19.0,98%,Alien (1979),127
+Mistério e Suspense,20.0,100%,Shadow of a Doubt (1943),49
+Mistério e Suspense,21.0,96%,Psycho (1960),105
+Mistério e Suspense,22.0,99%,L.A. Confidential (1997),161
+Mistério e Suspense,23.0,96%,"The Godfather, Part II (1974)",114
+Mistério e Suspense,24.0,100%,M (1931),60
+Mistério e Suspense,25.0,97%,Hell or High Water (2016),286
+Mistério e Suspense,26.0,98%,Jaws (1975),95
+Mistério e Suspense,28.0,98%,The Babadook (2014),242
+Mistério e Suspense,29.0,99%,Chinatown (1974),76
+Mistério e Suspense,30.0,98%,The Lady Vanishes (1938),45
+Mistério e Suspense,32.0,96%,The 39 Steps (1935),53
+Mistério e Suspense,33.0,96%,Harry Potter and the Deathly Hallows - Part 2 (2011),332
+Mistério e Suspense,34.0,98%,The Thin Man (1934),43
+Mistério e Suspense,35.0,95%,Touch of Evil (1958),79
+Mistério e Suspense,36.0,98%,Rashômon (1951),56
+Mistério e Suspense,37.0,96%,Taxi Driver (1976),94
+Mistério e Suspense,39.0,95%,Nightcrawler (2014),275
+Mistério e Suspense,40.0,100%,The Wages of Fear (1953),45
+Mistério e Suspense,41.0,98%,Strangers on a Train (1951),52
+Mistério e Suspense,43.0,97%,The Big Sleep (1946),65
+Mistério e Suspense,44.0,99%,Goldfinger (1964),69
+Mistério e Suspense,45.0,100%,Anatomy of a Murder (1959),50
+Mistério e Suspense,46.0,98%,Invasion of the Body Snatchers (1956),58
+Mistério e Suspense,47.0,95%,High Noon (1952),60
+Mistério e Suspense,48.0,95%,Freaks (1932),55
+Mistério e Suspense,49.0,100%,His House (2020),119
+Mistério e Suspense,50.0,95%,The Night of the Hunter (1955),77
+Mistério e Suspense,51.0,100%,The Taking of Pelham One Two Three (1974),43
+Mistério e Suspense,52.0,95%,In the Heat of the Night (1967),83
+Mistério e Suspense,53.0,98%,In a Lonely Place (1950),47
+Mistério e Suspense,54.0,96%,Halloween (1978),78
+Mistério e Suspense,55.0,96%,The Silence of the Lambs (1991),105
+Mistério e Suspense,56.0,96%,The Salesman (Forushande) (2017),196
+Mistério e Suspense,57.0,96%,Rosemary's Baby (1968),74
+Mistério e Suspense,58.0,98%,Sunrise: A Song of Two Humans (1927),62
+Mistério e Suspense,59.0,97%,The Conversation (1974),62
+Mistério e Suspense,60.0,98%,Detour (1945),41
+Mistério e Suspense,62.0,95%,Eye In The Sky (2016),221
+Mistério e Suspense,64.0,98%,Eyes Without a Face (1962),55
+Mistério e Suspense,68.0,97%,Badlands (1974),59
+Mistério e Suspense,69.0,95%,Repulsion (1965),65
+Mistério e Suspense,70.0,95%,Le Cercle Rouge (1970),65
+Mistério e Suspense,71.0,98%,101 Dalmatians (1961),52
+Mistério e Suspense,73.0,100%,Stalker (1979),41
+Mistério e Suspense,75.0,95%,Burning (Beoning) (2018),196
+Mistério e Suspense,76.0,97%,The Manchurian Candidate (1962),60
+Mistério e Suspense,78.0,98%,Kiss Me Deadly (1955),43
+Mistério e Suspense,80.0,98%,Blow the Man Down (2020),123
+Mistério e Suspense,82.0,97%,From Russia With Love (1964),61
+Mistério e Suspense,83.0,95%,Don't Look Now (1973),76
+Mistério e Suspense,86.0,98%,The Guilty (Den skyldige) (2018),120
+Mistério e Suspense,89.0,96%,Peeping Tom (1960),53
+Mistério e Suspense,92.0,96%,The Fugitive (1993),80
+Mistério e Suspense,93.0,96%,Notorious (1946),48
+Mistério e Suspense,95.0,98%,Bullitt (1968),43
+Mistério e Suspense,96.0,97%,Border (Gräns) (2018),130
+Mistério e Suspense,97.0,96%,Diabolique (Les Diaboliques) (1955),50
+Mistério e Suspense,98.0,97%,Who Framed Roger Rabbit (1988),67
+Mistério e Suspense,99.0,96%,Wake in Fright (1971),57
+Romance,1.0,99%,It Happened One Night (1934),98
+Romance,2.0,99%,Casablanca (1942),124
+Romance,3.0,100%,The Philadelphia Story (1940),102
+Romance,4.0,97%,A Night at the Opera (1935),70
+Romance,6.0,100%,Singin' in the Rain (1952),67
+Romance,7.0,98%,The Big Sick (2017),305
+Romance,8.0,99%,On the Waterfront (1954),107
+Romance,9.0,96%,An American in Paris (1951),94
+Romance,10.0,98%,The Best Years of Our Lives (1946),91
+Romance,11.0,100%,The Adventures of Robin Hood (1938),48
+Romance,13.0,100%,Top Hat (1935),42
+Romance,14.0,99%,Marty (1955),70
+Romance,15.0,100%,The Lady Eve (1941),48
+Romance,18.0,97%,The Red Shoes (1948),62
+Romance,19.0,98%,Before Midnight (2013),206
+Romance,20.0,97%,The Lost Weekend (1945),62
+Romance,21.0,95%,The Artist (2011),322
+Romance,22.0,99%,The Umbrellas of Cherbourg (Les Parapluies de Cherbourg) (1964),67
+Romance,25.0,99%,Ash Is Purest White (2019),154
+Romance,26.0,97%,Roman Holiday (1953),60
+Romance,27.0,96%,Beauty and The Beast (La Belle et la bête) (1946),67
+Romance,29.0,98%,The Princess Bride (1987),80
+Romance,30.0,96%,Annie Hall (1977),84
+Romance,31.0,98%,In a Lonely Place (1950),47
+Romance,32.0,100%,Only Yesterday (1991),58
+Romance,33.0,98%,Gentlemen Prefer Blondes (1953),45
+Romance,34.0,97%,Sideways (2004),233
+Romance,35.0,97%,Groundhog Day (1993),86
+Romance,36.0,98%,Sunrise: A Song of Two Humans (1927),62
+Romance,37.0,95%,Mrs. Miniver (1942),60
+Romance,38.0,96%,City Lights (1931),55
+Romance,39.0,96%,Miracle on 34th Street (1947),48
+Romance,41.0,100%,Three Colors: Red (Trois couleurs: Rouge) (1994),54
+Romance,43.0,98%,Children of Paradise (Les Enfants du Paradis) (1946),40
+Romance,44.0,98%,God's Own Country (2017),130
+Romance,45.0,99%,Saint Frances (2020),102
+Romance,46.0,96%,The African Queen (1951),46
+Romance,47.0,100%,Henry V (1989),40
+Romance,48.0,98%,Hiroshima Mon Amour (1960),40
+Romance,51.0,100%,Before Sunrise (1995),46
+Romance,53.0,98%,Your Name. (Kimi No Na Wa.) (2017),116
+Romance,54.0,95%,Enough Said (2013),191
+Romance,55.0,96%,Atlantics (2019),157
+Romance,56.0,98%,The Young Girls of Rochefort (Les Demoiselles de Rochefort) (1968),44
+Romance,57.0,97%,"Crouching Tiger, Hidden Dragon (2001)",159
+Romance,58.0,97%,Bull Durham (1988),71
+Romance,59.0,98%,Wings of Desire (1987),56
+Romance,61.0,97%,Border (Gräns) (2018),130
+Romance,62.0,95%,Lost In Translation (2003),232
+Romance,64.0,96%,Masculin Feminin (1966),45
+Romance,65.0,97%,The Lunchbox (2014),118
+Romance,66.0,98%,Say Anything... (1989),47
+Romance,68.0,98%,Three Colors: Blue (Trois Couleurs: Bleu) (1993),46
+Romance,69.0,96%,A Girl Walks Home Alone at Night (2014),135
+Romance,70.0,97%,The Half of It (2020),102
+Romance,71.0,97%,Sense and Sensibility (1995),64
+Romance,72.0,98%,My Beautiful Laundrette (1985),42
+Romance,73.0,96%,The Hustler (1961),47
+Romance,74.0,96%,Four Weddings and a Funeral (1994),70
+Romance,78.0,95%,Foreign Correspondent (1940),42
+Romance,85.0,95%,Dave (1993),60
+Romance,88.0,98%,A Summer's Tale (2014),47
+Romance,91.0,96%,Big Night (1996),57
+Romance,98.0,95%,Monsoon Wedding (2002),126
+Romance,99.0,96%,To All the Boys I've Loved Before (2018),70
+Romance,100.0,96%,Revanche (2009),83
+Ficção Científica e Fantasia,1.0,98%,The Wizard of Oz (1939),160
+Ficção Científica e Fantasia,2.0,96%,Black Panther (2018),525
+Ficção Científica e Fantasia,4.0,97%,Toy Story 4 (2019),453
+Ficção Científica e Fantasia,5.0,97%,Mad Max: Fury Road (2015),434
+Ficção Científica e Fantasia,6.0,97%,Spider-Man: Into the Spider-Verse (2018),393
+Ficção Científica e Fantasia,12.0,99%,E.T. The Extra-Terrestrial (1982),136
+Ficção Científica e Fantasia,14.0,98%,Snow White and the Seven Dwarfs (1937),54
+Ficção Científica e Fantasia,16.0,97%,Metropolis (1927),135
+Ficção Científica e Fantasia,17.0,96%,Gravity (2013),357
+Ficção Científica e Fantasia,19.0,97%,"Nosferatu, a Symphony of Terror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",69
+Ficção Científica e Fantasia,21.0,98%,Alien (1979),127
+Ficção Científica e Fantasia,26.0,98%,The Bride of Frankenstein (1935),47
+Ficção Científica e Fantasia,27.0,98%,Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb (1964),93
+Ficção Científica e Fantasia,30.0,100%,Pinocchio (1940),56
+Ficção Científica e Fantasia,31.0,100%,Frankenstein (1931),52
+Ficção Científica e Fantasia,32.0,96%,Harry Potter and the Deathly Hallows - Part 2 (2011),332
+Ficção Científica e Fantasia,41.0,97%,Kubo and the Two Strings (2016),226
+Ficção Científica e Fantasia,43.0,99%,How to Train Your Dragon (2010),212
+Ficção Científica e Fantasia,44.0,98%,Invasion of the Body Snatchers (1956),58
+Ficção Científica e Fantasia,47.0,95%,WALL-E (2008),260
+Ficção Científica e Fantasia,49.0,96%,Beauty and The Beast (La Belle et la bête) (1946),67
+Ficção Científica e Fantasia,50.0,100%,The Terminator (1984),65
+Ficção Científica e Fantasia,51.0,98%,Dumbo (1941),43
+Ficção Científica e Fantasia,55.0,98%,The Discreet Charm Of The Bourgeoisie (Le Charme Discret de la Bourgeoisie) (1972),53
+Ficção Científica e Fantasia,57.0,94%,Raya and the Last Dragon (2021),283
+Ficção Científica e Fantasia,58.0,98%,The Princess Bride (1987),80
+Ficção Científica e Fantasia,59.0,97%,Aliens (1986),78
+Ficção Científica e Fantasia,60.0,98%,8 1/2 (1963),54
+Ficção Científica e Fantasia,62.0,97%,Groundhog Day (1993),86
+Ficção Científica e Fantasia,64.0,95%,The Day the Earth Stood Still (1951),57
+Ficção Científica e Fantasia,65.0,96%,Miracle on 34th Street (1947),48
+Ficção Científica e Fantasia,66.0,95%,Pan's Labyrinth (2006),239
+Ficção Científica e Fantasia,70.0,100%,Stalker (1979),41
+Ficção Científica e Fantasia,72.0,95%,The Nightmare Before Christmas (1993),100
+Ficção Científica e Fantasia,76.0,94%,The Invisible Man (1933),51
+Ficção Científica e Fantasia,78.0,96%,"Monsters, Inc. (2001)",199
+Ficção Científica e Fantasia,80.0,97%,Big (1988),76
+Ficção Científica e Fantasia,82.0,95%,The Lord of the Rings: The Two Towers (2002),255
+Ficção Científica e Fantasia,83.0,97%,Ghostbusters (1984 Original) (1984),73
+Ficção Científica e Fantasia,84.0,97%,Spirited Away (2002),195
+Ficção Científica e Fantasia,88.0,98%,Jodorowsky's Dune (2014),121
+Ficção Científica e Fantasia,89.0,99%,Song Of The Sea (2014),97
+Ficção Científica e Fantasia,90.0,96%,The Iron Giant (1999),142
+Ficção Científica e Fantasia,91.0,96%,Back to the Future (1985),83
+Ficção Científica e Fantasia,92.0,98%,Wings of Desire (1987),56
+Ficção Científica e Fantasia,93.0,95%,Fantasia (1940),56
+Ficção Científica e Fantasia,95.0,97%,Border (Gräns) (2018),130
+Ficção Científica e Fantasia,96.0,96%,Forbidden Planet (1956),47
+Ficção Científica e Fantasia,100.0,98%,Brazil (1985),49
+Interesse especial,1.0,98%,The Bride of Frankenstein (1935),47
+Interesse especial,2.0,100%,Frankenstein (1931),52
+Interesse especial,3.0,98%,Life Itself (2014),203
+Interesse especial,4.0,100%,Man on Wire (2008),159
+Interesse especial,6.0,98%,The Discreet Charm Of The Bourgeoisie (Le Charme Discret de la Bourgeoisie) (1972),53
+Interesse especial,7.0,97%,Groundhog Day (1993),86
+Interesse especial,8.0,95%,Amy (2015),225
+Interesse especial,9.0,96%,Miracle on 34th Street (1947),48
+Interesse especial,10.0,98%,Blackfish (2013),131
+Interesse especial,11.0,100%,Taxi to the Dark Side (2007),93
+Interesse especial,12.0,100%,The Decline of Ocidental Civilization (1981),40
+Interesse especial,13.0,98%,Murderball (2005),141
+Interesse especial,14.0,98%,Jodorowsky's Dune (2014),121
+Interesse especial,15.0,98%,Inside Job (2010),148
+Interesse especial,16.0,100%,The Square (Al Midan) (2013),69
+Interesse especial,17.0,99%,Jiro Dreams of Sushi (2012),95
+Interesse especial,18.0,98%,Paris Is Burning (1991),57
+Interesse especial,19.0,96%,Waltz with Bashir (2008),153
+Interesse especial,20.0,98%,Hoop Dreams (1994),60
+Interesse especial,21.0,99%,The Interrupters (2011),93
+Interesse especial,22.0,100%,Afghan Star (2009),62
+Interesse especial,23.0,97%,Capturing the Friedmans (2003),154
+Interesse especial,24.0,100%,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999)",42
+Interesse especial,25.0,99%,The Invisible War (2012),72
+Interesse especial,26.0,99%,56 Up (2013),69
+Interesse especial,27.0,99%,Elaine Stritch: Shoot Me (2014),67
+Interesse especial,28.0,95%,The Act Of Killing (2013),160
+Interesse especial,29.0,100%,Last Train Home (2010),55
+Interesse especial,30.0,97%,Spellbound (2002),139
+Interesse especial,31.0,97%,Enron: The Smartest Guys in the Room (2005),119
+Interesse especial,32.0,100%,Sholem Aleichem: Laughing in the Darkness (2011),43
+Interesse especial,33.0,98%,Ai Weiwei: Never Sorry (2012),83
+Interesse especial,34.0,98%,How to Survive a Plague (2012),80
+Interesse especial,35.0,97%,This Is Not a Film (2012),102
+Interesse especial,36.0,96%,Cave of Forgotten Dreams (2011),137
+Interesse especial,37.0,97%,The King of Kong: A Fistful of Quarters (2007),102
+Interesse especial,38.0,96%,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara (2003),142
+Interesse especial,39.0,95%,Bowling for Columbine (2002),173
+Interesse especial,40.0,97%,Muscle Shoals (2013),87
+Interesse especial,42.0,98%,The War Tapes (2006),65
+Interesse especial,44.0,96%,Undefeated (2012),102
+Interesse especial,45.0,98%,A Film Unfinished (2010),65
+Interesse especial,47.0,97%,The Overnighters (2014),73
+Interesse especial,49.0,98%,Call Me Kuchu (2013),51
+Interesse especial,50.0,98%,Mea Maxima Culpa: Silence In The House Of God (2012),50
+Interesse especial,51.0,96%,Restrepo (2010),118
+Interesse especial,52.0,95%,The Queen of Versailles (2012),120
+Interesse especial,53.0,98%,Let The Fire Burn (2013),46
+Interesse especial,54.0,96%,Exit Through The Gift Shop (2010),115
+Interesse especial,55.0,98%,For the Bible Tells Me So (2007),51
+Interesse especial,56.0,98%,Blindsight (2006),50
+Interesse especial,57.0,95%,The Imposter (2012),117
+Interesse especial,58.0,95%,Marley (2012),114
+Interesse especial,59.0,98%,Surfwise (2007),46
+Interesse especial,60.0,96%,No End in Sight (2007),98
+Interesse especial,61.0,97%,The Life and Times of Hank Greenberg (2000),65
+Interesse especial,62.0,97%,Burma VJ: Reporter i et Lukket Land (Burma VJ: Reporting from a Closed Country) (2008),62
+Interesse especial,64.0,97%,49 Up (2006),65
+Interesse especial,65.0,95%,Finding Vivian Maier (2014),102
+Interesse especial,67.0,95%,Winged Migration (2003),132
+Interesse especial,69.0,97%,Sweetgrass (2009),64
+Interesse especial,70.0,96%,"Bigger, Stronger, Faster* (2008)",76
+Interesse especial,71.0,96%,Trouble the Water (2008),76
+Interesse especial,72.0,95%,"Food, Inc. (2009)",114
+Interesse especial,74.0,96%,Chasing Ice (2012),72
+Interesse especial,75.0,97%,To Be and to Have (Etre et Avoir) (2003),59
+Interesse especial,76.0,95%,The Salt of the Earth (2015),94
+Interesse especial,77.0,95%,The Wild Parrots of Telegraph Hill (2005),101
+Interesse especial,79.0,95%,"20,000 Days on Earth (2014)",88
+Interesse especial,81.0,95%,Control Room (2004),111
+Interesse especial,82.0,96%,Bus 174 (Ônibus 174) (2003),79
+Interesse especial,84.0,95%,Born Into Brothels (2004),108
+Interesse especial,85.0,95%,My Winnipeg (2007),92
+Interesse especial,86.0,96%,Manakamana (2014),54
+Interesse especial,87.0,96%,I Am Divine (2013),54
+Interesse especial,88.0,95%,Cutie And The Boxer (2013),75
+Interesse especial,89.0,96%,Brooklyn Castle (2012),53
+Interesse especial,90.0,96%,Deep Water (2006),55
+Interesse especial,91.0,95%,Crumb (1995),42
+Interesse especial,92.0,96%,The Last of the Unjust (2014),48
+Interesse especial,93.0,95%,Good Hair (2009),84
+Interesse especial,94.0,96%,The Devil Came on Horseback (2007),54
+Interesse especial,95.0,96%,Up the Yangtze (2007),53
+Interesse especial,96.0,96%,5 Broken Cameras (2012),48
+Interesse especial,97.0,95%,National Gallery (2014),66
+Interesse especial,98.0,96%,Plagues & Pleasures on the Salton Sea (2004),53
+Interesse especial,99.0,95%,Last Days in Vietnam (2014),62
+Esportes & Fitness,1.0,98%,Murderball (2005),141
+Esportes & Fitness,2.0,100%,Athlete A (2020),57
+Esportes & Fitness,3.0,98%,Hoop Dreams (1994),60
+Esportes & Fitness,4.0,98%,When We Were Kings (1996),49
+Esportes & Fitness,5.0,97%,The King of Kong: A Fistful of Quarters (2007),102
+Esportes & Fitness,6.0,96%,Undefeated (2012),102
+Esportes & Fitness,8.0,98%,Surfwise (2007),46
+Esportes & Fitness,9.0,97%,The Life and Times of Hank Greenberg (2000),65
+Esportes & Fitness,13.0,96%,The Crash Reel (2013),46
+Esportes & Fitness,18.0,95%,Boxing Gym (2010),42
+Televisão,1.0,98%,Life Itself (2014),203
+Televisão,2.0,100%,Afghan Star (2009),62
+Televisão,3.0,98%,A Film Unfinished (2010),65
+Televisão,5.0,97%,49 Up (2006),65
+Televisão,6.0,96%,The Return (2004),89
+Televisão,8.0,95%,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation! (2008)",66
+Televisão,9.0,95%,Being Elmo: A Puppeteer's Journey (2011),78
+Televisão,10.0,96%,Los Angeles Plays Itself (2003),45
+Televisão,13.0,95%,Sing Your Song (2012),40
+Ocidental,1.0,100%,The Treasure of the Sierra Madre (1948),52
+Ocidental,2.0,97%,"The Good, the Bad and the Ugly (1966)",77
+Ocidental,3.0,100%,Stagecoach (1939),45
+Ocidental,4.0,95%,High Noon (1952),60
+Ocidental,5.0,96%,Unforgiven (1992),106
+Ocidental,6.0,95%,True Grit (2010),275
+Ocidental,7.0,98%,A Fistful of Dollars (Per un Pugno di Dollari) (1964),51
+Ocidental,8.0,98%,Rio Bravo (1959),43
+Ocidental,9.0,96%,The Searchers (1956),50
+Ocidental,10.0,95%,Once Upon a Time in the West (1968),65
+Ocidental,11.0,98%,Deadwood: The Movie (2019),88
+Ocidental,15.0,97%,Sweetgrass (2009),64
